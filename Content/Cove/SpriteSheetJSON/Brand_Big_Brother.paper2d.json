@@ -1,0 +1,115 @@
+﻿{
+    "frames":  [
+                   {
+                       "filename":  "Brand_Big_Brother_Idle",
+                       "frame":  {
+                                     "x":  0,
+                                     "y":  0,
+                                     "w":  196,
+                                     "h":  1168
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  196,
+                                                "h":  1168
+                                            },
+                       "sourceSize":  {
+                                          "w":  196,
+                                          "h":  1168
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Brand_Big_Brother_StepA",
+                       "frame":  {
+                                     "x":  196,
+                                     "y":  0,
+                                     "w":  196,
+                                     "h":  1168
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  196,
+                                                "h":  1168
+                                            },
+                       "sourceSize":  {
+                                          "w":  196,
+                                          "h":  1168
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Brand_Big_Brother_StepB",
+                       "frame":  {
+                                     "x":  392,
+                                     "y":  0,
+                                     "w":  196,
+                                     "h":  1168
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  196,
+                                                "h":  1168
+                                            },
+                       "sourceSize":  {
+                                          "w":  196,
+                                          "h":  1168
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Brand_Big_Brother_Action",
+                       "frame":  {
+                                     "x":  588,
+                                     "y":  0,
+                                     "w":  196,
+                                     "h":  1168
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  196,
+                                                "h":  1168
+                                            },
+                       "sourceSize":  {
+                                          "w":  196,
+                                          "h":  1168
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   }
+               ],
+    "meta":  {
+                 "app":  "http://www.codeandweb.com/texturepacker",
+                 "version":  "1.0",
+                 "image":  "Brand Big Brother.jpg",
+                 "format":  "RGBA8888",
+                 "size":  {
+                              "w":  784,
+                              "h":  1168
+                          },
+                 "scale":  "1"
+             }
+}

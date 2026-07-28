@@ -1,0 +1,13 @@
+# Blender 5.1.1 MTL File: 'ted_boy.blend'
+# www.blender.org
+
+newmtl ted_boy
+Ns 211.121262
+Ka 0.120000 0.120000 0.120000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd -o 0 -1 0 C:/ted-boy1.jpg
+map_Bump -o 0 -1 0 -bm 1.000000 C:/ted-boyNM_1.jpg

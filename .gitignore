@@ -1,0 +1,30 @@
+﻿# Unreal generated/build output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Packaged/
+Releases/
+AutoSDK/
+
+# IDE/user local files
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
+*.suo
+*.user
+
+# Build/debug artifacts
+*.pdb
+*.obj
+*.log
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+
+Code/bin/
+Code/obj/
+*.before_mechanics

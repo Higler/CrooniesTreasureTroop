@@ -540,3 +540,28 @@
 - Money-store cap, dock, water, hub assets, and accepted road/dock placement were left unchanged.
 - Built both `CrooniesTreasureTroopEditor Win64 Development` and `CrooniesTreasureTroop Win64 Development` successfully.
 - Created release `0.1.110` using the updated game binary and `-SkipBuild`. Release folder: `F:\gooniesgame\Releases\CrooniesTreasureTroop-0.1.110`.
+
+## 2026-07-10 - Old Attic Map 4/4 Box And Wall Height Fix
+
+- User marked the Old Attic shelf map 4/4 L2 box layout and base wall height.
+- Only changed the Old Attic layout:
+  - Moved the bottom shelf map-fragment pen's low jumpable box to the marked red-X side.
+  - Kept the opposite marked circle side as a tall non-jumpable blocker by skipping the duplicate tall blocker only at the new low-entry position.
+  - Raised the short main-platform north wall segments to match the main attic wall height.
+  - Raised the shelf inner wall segments to match the raised shelf outer perimeter wall height so the platform/shelf perimeter reads as a seamless full-height wall.
+- Hub road, dock, water, and unrelated attic props were left unchanged.
+- Built both `CrooniesTreasureTroopEditor Win64 Development` and `CrooniesTreasureTroop Win64 Development` successfully.
+- Created release `0.1.111` using the updated game binary and `-SkipBuild`. Release folder: `F:\gooniesgame\Releases\CrooniesTreasureTroop-0.1.111`.
+
+## 2026-07-10 - Old Attic Outer Perimeter Wall And Map 4/4 Opening Swap
+
+- User rejected `0.1.111` because it raised the divider/shelf seam walls instead of only the main attic platform outer perimeter.
+- Restored divider/shelf seam walls to their prior lower height:
+  - `OldAtticNorthConnectedWoodWallLeftSegment` / `RightSegment` back to `Z=45.f`, scale Z `1.10f`.
+  - `OldAtticRaisedShelfInnerWallLeftSegment` / `RightSegment` back to `Z=297.f`, scale Z `1.10f`.
+- Raised only the main attic platform true outer perimeter walls to match the shelf outer wall top height:
+  - `OldAtticSouthConnectedWoodWall`, `OldAtticWestConnectedWoodWall`, `OldAtticEastConnectedWoodWall` use `Z=226.f`, scale Z `4.72f`.
+- Swapped the bottom shelf map 4/4 L2 opening by moving the low jumpable entry box to `(170.f, -170.f, 310.f)` for `bEntryOnNegativeY`.
+- Hub road, dock, water, shelf outer walls, and unrelated attic props were left unchanged.
+- Built both `CrooniesTreasureTroopEditor Win64 Development` and `CrooniesTreasureTroop Win64 Development` successfully.
+- Created release `0.1.112` using the updated game binary and `-SkipBuild`. Release folder: `F:\gooniesgame\Releases\CrooniesTreasureTroop-0.1.112`.

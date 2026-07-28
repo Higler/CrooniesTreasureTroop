@@ -1,0 +1,115 @@
+﻿{
+    "frames":  [
+                   {
+                       "filename":  "Stef_Tomboy_Idle",
+                       "frame":  {
+                                     "x":  0,
+                                     "y":  0,
+                                     "w":  292,
+                                     "h":  784
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  292,
+                                                "h":  784
+                                            },
+                       "sourceSize":  {
+                                          "w":  292,
+                                          "h":  784
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Stef_Tomboy_StepA",
+                       "frame":  {
+                                     "x":  292,
+                                     "y":  0,
+                                     "w":  292,
+                                     "h":  784
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  292,
+                                                "h":  784
+                                            },
+                       "sourceSize":  {
+                                          "w":  292,
+                                          "h":  784
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Stef_Tomboy_StepB",
+                       "frame":  {
+                                     "x":  584,
+                                     "y":  0,
+                                     "w":  292,
+                                     "h":  784
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  292,
+                                                "h":  784
+                                            },
+                       "sourceSize":  {
+                                          "w":  292,
+                                          "h":  784
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   },
+                   {
+                       "filename":  "Stef_Tomboy_Action",
+                       "frame":  {
+                                     "x":  876,
+                                     "y":  0,
+                                     "w":  292,
+                                     "h":  784
+                                 },
+                       "rotated":  false,
+                       "trimmed":  false,
+                       "spriteSourceSize":  {
+                                                "x":  0,
+                                                "y":  0,
+                                                "w":  292,
+                                                "h":  784
+                                            },
+                       "sourceSize":  {
+                                          "w":  292,
+                                          "h":  784
+                                      },
+                       "pivot":  {
+                                     "x":  0.5,
+                                     "y":  1
+                                 }
+                   }
+               ],
+    "meta":  {
+                 "app":  "http://www.codeandweb.com/texturepacker",
+                 "version":  "1.0",
+                 "image":  "Stef Tomboy.jpg",
+                 "format":  "RGBA8888",
+                 "size":  {
+                              "w":  1168,
+                              "h":  784
+                          },
+                 "scale":  "1"
+             }
+}
